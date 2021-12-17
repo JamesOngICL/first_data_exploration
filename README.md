@@ -2,11 +2,12 @@
 A fast 2-day project for ICDSS data brawl.https://imperialdatasoc.co.uk/data-brawl-2021-2022/?mc_cid=171d9e0468&mc_eid=e11ca7c91c
 
 ## Inspiration
-I always wanted to observe the effects between academic attainment and studiousness to better understand how I could apply certain techniques to optimize my studies. I decided to also evaluate other socioeconomic factors such as parental education for the construction of this model. 
+I always wanted to observe the effects between academic attainment and studiousness to better understand how I could apply certain techniques to optimize my studies. I decided to also evaluate other socioeconomic factors such as parental education for the construction of this model. This was done out of curiosity and also an attempt to understand the effect of inequality on someone's academic attainment.
 ## What it does
 This model runs a multivariate linear regression to examine the data and gain a deeper understanding of the factors involved and how they affect academic performance. 
 The thesis question was:
-To what extent do socioeconomic and behavioural factors have on overall mathematics grades and how effective is linear regression at modelling a students performance in portugese maths examinations? 
+
+#To what extent do socioeconomic and behavioural factors have on overall mathematics grades and how effective is linear regression at modelling a students performance in portugese maths examinations? 
 
 ## How we built it
 I used approximately 90% of the data for training the model and the remaining 10% was used to test how effective the model was at making predictions (90-10 train test split). This was done by taking the first 350 rows of the math data and storing them into a new CSV file. I made this decision because the maths data set is rather small with around 400 rows and hence I thought that more data should be used in order to perform an accurate linear regression. 
