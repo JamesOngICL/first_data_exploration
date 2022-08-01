@@ -1,5 +1,5 @@
 # first_data_exploration
-A fast 2-day project for ICDSS data brawl.https://imperialdatasoc.co.uk/data-brawl-2021-2022/?mc_cid=171d9e0468&mc_eid=e11ca7c91c
+A fast 1-day project for ICDSS data brawl.https://imperialdatasoc.co.uk/data-brawl-2021-2022/?mc_cid=171d9e0468&mc_eid=e11ca7c91c
 
 ## Inspiration
 I always wanted to observe the effects between academic attainment and studiousness to better understand how I could apply certain techniques to optimize my studies. I decided to also evaluate other socioeconomic factors such as parental education for the construction of this model. This was done out of curiosity and also an attempt to understand the effect of inequality on someone's academic attainment.
